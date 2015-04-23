@@ -1,0 +1,25 @@
+{
+
+  project : {
+    name : 'Brimstone',
+    version : '1.0.0',
+    author : '',
+
+    app : {
+      name : 'Brimestone',
+      package : 'com.Brimstone'
+    },
+
+    build : {
+      dependencies : {
+        luxe : '*',
+      }
+    },
+
+    files : {
+      assets : 'assets/'
+    }
+
+  }
+
+}
